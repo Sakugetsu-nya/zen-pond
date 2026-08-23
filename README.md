@@ -29,5 +29,5 @@ Vibe coding产物，一个以「禅意解压」为核心的沉浸式网页应用
 ---
 
 ## 📝 License
-本项目仅供个人学习与非商业用途。背景图、音频均来自互联网非版权公版素材。<br>
+本项目仅供个人学习与非商业用途。背景图、音频均来自互联网公版素材。<br>
 水波纹实现参考[feitangyuan/liquid-refraction-lab](https://github.com/feitangyuan/liquid-refraction-lab)
