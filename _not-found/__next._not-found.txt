@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[39756,["/zen-pond/_next/static/chunks/7de5d17ed1b7ee6f.js","/zen-pond/_next/static/chunks/2f236954d6a65e12.js"],"default"]
 3:I[37457,["/zen-pond/_next/static/chunks/7de5d17ed1b7ee6f.js","/zen-pond/_next/static/chunks/2f236954d6a65e12.js"],"default"]
-0:{"buildId":"YllmNGpO3HGlsRa3kJu0h","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"38_gsLD5a25ZSfLaXAXX1","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
